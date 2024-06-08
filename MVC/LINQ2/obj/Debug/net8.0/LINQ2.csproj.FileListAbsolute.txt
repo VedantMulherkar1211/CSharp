@@ -1,0 +1,14 @@
+B:\Cdac\C#\MVC\LINQ2\bin\Debug\net8.0\LINQ2.exe
+B:\Cdac\C#\MVC\LINQ2\bin\Debug\net8.0\LINQ2.deps.json
+B:\Cdac\C#\MVC\LINQ2\bin\Debug\net8.0\LINQ2.runtimeconfig.json
+B:\Cdac\C#\MVC\LINQ2\bin\Debug\net8.0\LINQ2.dll
+B:\Cdac\C#\MVC\LINQ2\bin\Debug\net8.0\LINQ2.pdb
+B:\Cdac\C#\MVC\LINQ2\obj\Debug\net8.0\LINQ2.GeneratedMSBuildEditorConfig.editorconfig
+B:\Cdac\C#\MVC\LINQ2\obj\Debug\net8.0\LINQ2.AssemblyInfoInputs.cache
+B:\Cdac\C#\MVC\LINQ2\obj\Debug\net8.0\LINQ2.AssemblyInfo.cs
+B:\Cdac\C#\MVC\LINQ2\obj\Debug\net8.0\LINQ2.csproj.CoreCompileInputs.cache
+B:\Cdac\C#\MVC\LINQ2\obj\Debug\net8.0\LINQ2.dll
+B:\Cdac\C#\MVC\LINQ2\obj\Debug\net8.0\refint\LINQ2.dll
+B:\Cdac\C#\MVC\LINQ2\obj\Debug\net8.0\LINQ2.pdb
+B:\Cdac\C#\MVC\LINQ2\obj\Debug\net8.0\LINQ2.genruntimeconfig.cache
+B:\Cdac\C#\MVC\LINQ2\obj\Debug\net8.0\ref\LINQ2.dll

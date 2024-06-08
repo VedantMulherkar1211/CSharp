@@ -1,0 +1,14 @@
+B:\Cdac\C#\StreamDemo\StreamDemo\StreamDemo\obj\Debug\net8.0\StreamDemo.GeneratedMSBuildEditorConfig.editorconfig
+B:\Cdac\C#\StreamDemo\StreamDemo\StreamDemo\obj\Debug\net8.0\StreamDemo.AssemblyInfoInputs.cache
+B:\Cdac\C#\StreamDemo\StreamDemo\StreamDemo\obj\Debug\net8.0\StreamDemo.AssemblyInfo.cs
+B:\Cdac\C#\StreamDemo\StreamDemo\StreamDemo\obj\Debug\net8.0\StreamDemo.csproj.CoreCompileInputs.cache
+B:\Cdac\C#\StreamDemo\StreamDemo\StreamDemo\bin\Debug\net8.0\StreamDemo.exe
+B:\Cdac\C#\StreamDemo\StreamDemo\StreamDemo\bin\Debug\net8.0\StreamDemo.deps.json
+B:\Cdac\C#\StreamDemo\StreamDemo\StreamDemo\bin\Debug\net8.0\StreamDemo.runtimeconfig.json
+B:\Cdac\C#\StreamDemo\StreamDemo\StreamDemo\bin\Debug\net8.0\StreamDemo.dll
+B:\Cdac\C#\StreamDemo\StreamDemo\StreamDemo\bin\Debug\net8.0\StreamDemo.pdb
+B:\Cdac\C#\StreamDemo\StreamDemo\StreamDemo\obj\Debug\net8.0\StreamDemo.dll
+B:\Cdac\C#\StreamDemo\StreamDemo\StreamDemo\obj\Debug\net8.0\refint\StreamDemo.dll
+B:\Cdac\C#\StreamDemo\StreamDemo\StreamDemo\obj\Debug\net8.0\StreamDemo.pdb
+B:\Cdac\C#\StreamDemo\StreamDemo\StreamDemo\obj\Debug\net8.0\StreamDemo.genruntimeconfig.cache
+B:\Cdac\C#\StreamDemo\StreamDemo\StreamDemo\obj\Debug\net8.0\ref\StreamDemo.dll

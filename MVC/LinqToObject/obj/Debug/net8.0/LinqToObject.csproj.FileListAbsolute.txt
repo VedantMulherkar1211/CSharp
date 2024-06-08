@@ -1,0 +1,14 @@
+B:\Cdac\C#\MVC\LinqToObject\obj\Debug\net8.0\LinqToObject.GeneratedMSBuildEditorConfig.editorconfig
+B:\Cdac\C#\MVC\LinqToObject\obj\Debug\net8.0\LinqToObject.AssemblyInfoInputs.cache
+B:\Cdac\C#\MVC\LinqToObject\obj\Debug\net8.0\LinqToObject.AssemblyInfo.cs
+B:\Cdac\C#\MVC\LinqToObject\obj\Debug\net8.0\LinqToObject.csproj.CoreCompileInputs.cache
+B:\Cdac\C#\MVC\LinqToObject\bin\Debug\net8.0\LinqToObject.exe
+B:\Cdac\C#\MVC\LinqToObject\bin\Debug\net8.0\LinqToObject.deps.json
+B:\Cdac\C#\MVC\LinqToObject\bin\Debug\net8.0\LinqToObject.runtimeconfig.json
+B:\Cdac\C#\MVC\LinqToObject\bin\Debug\net8.0\LinqToObject.dll
+B:\Cdac\C#\MVC\LinqToObject\bin\Debug\net8.0\LinqToObject.pdb
+B:\Cdac\C#\MVC\LinqToObject\obj\Debug\net8.0\LinqToObject.dll
+B:\Cdac\C#\MVC\LinqToObject\obj\Debug\net8.0\refint\LinqToObject.dll
+B:\Cdac\C#\MVC\LinqToObject\obj\Debug\net8.0\LinqToObject.pdb
+B:\Cdac\C#\MVC\LinqToObject\obj\Debug\net8.0\LinqToObject.genruntimeconfig.cache
+B:\Cdac\C#\MVC\LinqToObject\obj\Debug\net8.0\ref\LinqToObject.dll

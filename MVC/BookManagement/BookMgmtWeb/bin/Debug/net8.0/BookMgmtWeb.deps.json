@@ -1,0 +1,78 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BookMgmtWeb/1.0.0": {
+        "dependencies": {
+          "BussLayer": "1.0.0",
+          "Entities": "1.0.0"
+        },
+        "runtime": {
+          "BookMgmtWeb.dll": {}
+        }
+      },
+      "BussLayer/1.0.0": {
+        "dependencies": {
+          "DAL": "1.0.0",
+          "Entities": "1.0.0"
+        },
+        "runtime": {
+          "BussLayer.dll": {}
+        }
+      },
+      "DAL/1.0.0": {
+        "dependencies": {
+          "Entities": "1.0.0",
+          "Repository": "1.0.0"
+        },
+        "runtime": {
+          "DAL.dll": {}
+        }
+      },
+      "Entities/1.0.0": {
+        "runtime": {
+          "Entities.dll": {}
+        }
+      },
+      "Repository/1.0.0": {
+        "dependencies": {
+          "Entities": "1.0.0"
+        },
+        "runtime": {
+          "Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BookMgmtWeb/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BussLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

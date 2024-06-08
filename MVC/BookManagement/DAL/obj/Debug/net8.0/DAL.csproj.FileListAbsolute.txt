@@ -1,0 +1,17 @@
+B:\Cdac\C#\MVC\BookManagement\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+B:\Cdac\C#\MVC\BookManagement\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+B:\Cdac\C#\MVC\BookManagement\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+B:\Cdac\C#\MVC\BookManagement\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+B:\Cdac\C#\MVC\BookManagement\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+B:\Cdac\C#\MVC\BookManagement\DAL\bin\Debug\net8.0\DAL.deps.json
+B:\Cdac\C#\MVC\BookManagement\DAL\bin\Debug\net8.0\DAL.dll
+B:\Cdac\C#\MVC\BookManagement\DAL\bin\Debug\net8.0\DAL.pdb
+B:\Cdac\C#\MVC\BookManagement\DAL\bin\Debug\net8.0\Entities.dll
+B:\Cdac\C#\MVC\BookManagement\DAL\bin\Debug\net8.0\Repository.dll
+B:\Cdac\C#\MVC\BookManagement\DAL\bin\Debug\net8.0\Entities.pdb
+B:\Cdac\C#\MVC\BookManagement\DAL\bin\Debug\net8.0\Repository.pdb
+B:\Cdac\C#\MVC\BookManagement\DAL\obj\Debug\net8.0\DAL.csproj.CopyComplete
+B:\Cdac\C#\MVC\BookManagement\DAL\obj\Debug\net8.0\DAL.dll
+B:\Cdac\C#\MVC\BookManagement\DAL\obj\Debug\net8.0\refint\DAL.dll
+B:\Cdac\C#\MVC\BookManagement\DAL\obj\Debug\net8.0\DAL.pdb
+B:\Cdac\C#\MVC\BookManagement\DAL\obj\Debug\net8.0\ref\DAL.dll

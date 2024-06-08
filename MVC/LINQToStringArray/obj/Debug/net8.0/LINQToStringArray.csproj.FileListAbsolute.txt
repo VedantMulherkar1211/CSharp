@@ -1,0 +1,14 @@
+B:\Cdac\C#\MVC\LINQToStringArray\obj\Debug\net8.0\LINQToStringArray.GeneratedMSBuildEditorConfig.editorconfig
+B:\Cdac\C#\MVC\LINQToStringArray\obj\Debug\net8.0\LINQToStringArray.AssemblyInfoInputs.cache
+B:\Cdac\C#\MVC\LINQToStringArray\obj\Debug\net8.0\LINQToStringArray.AssemblyInfo.cs
+B:\Cdac\C#\MVC\LINQToStringArray\obj\Debug\net8.0\LINQToStringArray.csproj.CoreCompileInputs.cache
+B:\Cdac\C#\MVC\LINQToStringArray\bin\Debug\net8.0\LINQToStringArray.exe
+B:\Cdac\C#\MVC\LINQToStringArray\bin\Debug\net8.0\LINQToStringArray.deps.json
+B:\Cdac\C#\MVC\LINQToStringArray\bin\Debug\net8.0\LINQToStringArray.runtimeconfig.json
+B:\Cdac\C#\MVC\LINQToStringArray\bin\Debug\net8.0\LINQToStringArray.dll
+B:\Cdac\C#\MVC\LINQToStringArray\bin\Debug\net8.0\LINQToStringArray.pdb
+B:\Cdac\C#\MVC\LINQToStringArray\obj\Debug\net8.0\LINQToStringArray.dll
+B:\Cdac\C#\MVC\LINQToStringArray\obj\Debug\net8.0\refint\LINQToStringArray.dll
+B:\Cdac\C#\MVC\LINQToStringArray\obj\Debug\net8.0\LINQToStringArray.pdb
+B:\Cdac\C#\MVC\LINQToStringArray\obj\Debug\net8.0\LINQToStringArray.genruntimeconfig.cache
+B:\Cdac\C#\MVC\LINQToStringArray\obj\Debug\net8.0\ref\LINQToStringArray.dll

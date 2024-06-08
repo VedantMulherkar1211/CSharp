@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+<h1 class="display-4">Welcome</h1>   
+<h1>Razor Syntax</h1>
+<h3>@DateTime.Now.ToShortDateString()</h3>
+
+    @{
+        var dt = DateTime.Now.ToShortDateString();
+        var msg = "Welcome to Razor Syntax";
+    }
+
+    <h5>Today's date: @dt</h5>
+    <h6>Message: @msg</h6>
+
+    <text>Todays Date: @dt</text>
+
+    @if (DateTime.IsLeapYear(DateTime.Now.Year))
+    {
+        @DateTime.Now.Year @:Is Leap Year
+    }
+    else
+    {
+        @DateTime.Now.Year @:Is Not Leap Year
+    }
+
+    @for(int i=0;i<10;i++)
+    {
+        @for(int j=0; j<10;j++)
+        {
+            @i.ToString();
+
+            
+        }
+        <br />
+        
+    }
+</div>

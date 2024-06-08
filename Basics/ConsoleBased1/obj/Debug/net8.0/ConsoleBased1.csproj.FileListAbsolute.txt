@@ -1,0 +1,14 @@
+B:\Cdac\C#\Basics\ConsoleBased1\obj\Debug\net8.0\ConsoleBased1.GeneratedMSBuildEditorConfig.editorconfig
+B:\Cdac\C#\Basics\ConsoleBased1\obj\Debug\net8.0\ConsoleBased1.AssemblyInfoInputs.cache
+B:\Cdac\C#\Basics\ConsoleBased1\obj\Debug\net8.0\ConsoleBased1.AssemblyInfo.cs
+B:\Cdac\C#\Basics\ConsoleBased1\obj\Debug\net8.0\ConsoleBased1.csproj.CoreCompileInputs.cache
+B:\Cdac\C#\Basics\ConsoleBased1\bin\Debug\net8.0\ConsoleBased1.exe
+B:\Cdac\C#\Basics\ConsoleBased1\bin\Debug\net8.0\ConsoleBased1.deps.json
+B:\Cdac\C#\Basics\ConsoleBased1\bin\Debug\net8.0\ConsoleBased1.runtimeconfig.json
+B:\Cdac\C#\Basics\ConsoleBased1\bin\Debug\net8.0\ConsoleBased1.dll
+B:\Cdac\C#\Basics\ConsoleBased1\bin\Debug\net8.0\ConsoleBased1.pdb
+B:\Cdac\C#\Basics\ConsoleBased1\obj\Debug\net8.0\ConsoleBased1.dll
+B:\Cdac\C#\Basics\ConsoleBased1\obj\Debug\net8.0\refint\ConsoleBased1.dll
+B:\Cdac\C#\Basics\ConsoleBased1\obj\Debug\net8.0\ConsoleBased1.pdb
+B:\Cdac\C#\Basics\ConsoleBased1\obj\Debug\net8.0\ConsoleBased1.genruntimeconfig.cache
+B:\Cdac\C#\Basics\ConsoleBased1\obj\Debug\net8.0\ref\ConsoleBased1.dll
